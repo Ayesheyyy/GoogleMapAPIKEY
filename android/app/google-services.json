@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "265871202894",
+    "project_id": "failedtoconnect-4a160",
+    "storage_bucket": "failedtoconnect-4a160.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265871202894:android:e5ec8de2fdd3f5209c811f",
+        "android_client_info": {
+          "package_name": "com.trytryagain.failedtoconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuhlI0xZsbznBuiSLVylzOkNaNIVjTjwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
