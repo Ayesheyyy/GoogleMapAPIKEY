@@ -1,6 +1,6 @@
 # failedtoconnect
 
-A new Flutter project.
+Use this project to authnticate/ validate the user's data and store/retrieve user's data and make user enable to use googlemap API KEY.
 
 ## Getting Started
 
